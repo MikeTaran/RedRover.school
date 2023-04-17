@@ -1,0 +1,920 @@
+.beanscenecoffeelandingpage-container {
+  min-height: 100vh;
+}
+.beanscenecoffeelandingpage-beanscenecoffeelandingpage {
+  width: 100%;
+  height: 1722px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 253, 252, 1);
+}
+.beanscenecoffeelandingpage-fotterimage {
+  right: -27px;
+  width: 1388px;
+  bottom: 718px;
+  height: 0px;
+  position: absolute;
+  border-color: transparent;
+}
+.beanscenecoffeelandingpage-coffeeimage {
+  top: 0px;
+  left: 0px;
+  width: 1366px;
+  height: 614px;
+  position: absolute;
+  border-color: transparent;
+}
+.beanscenecoffeelandingpage-overlay {
+  top: 0px;
+  left: 0px;
+  width: 1366px;
+  height: 572px;
+  position: absolute;
+  border-color: transparent;
+}
+.beanscenecoffeelandingpage-coffeeblast {
+  top: 1065px;
+  left: -130px;
+  width: 498px;
+  height: 272px;
+  position: absolute;
+  border-color: transparent;
+}
+.beanscenecoffeelandingpage-coffeeblast1 {
+  top: 2185px;
+  left: 1471px;
+  width: 478px;
+  height: 261px;
+  position: absolute;
+  border-color: transparent;
+}
+.beanscenecoffeelandingpage-text {
+  top: 34px;
+  left: 493px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text02 {
+  top: 34px;
+  left: 591px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text04 {
+  top: 34px;
+  left: 687px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text06 {
+  top: 34px;
+  left: 804px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text08 {
+  top: 21px;
+  left: 93px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 35px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Clicker Script;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text10 {
+  top: 34px;
+  left: 1093px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: underline;
+}
+.beanscenecoffeelandingpage-group2 {
+  top: 20px;
+  left: 1173px;
+  width: 100px;
+  height: 48px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(249, 192, 106, 1);
+}
+.beanscenecoffeelandingpage-text12 {
+  top: 14px;
+  left: 27px;
+  color: rgba(30, 30, 30, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-group6 {
+  top: 183px;
+  left: 93px;
+  width: 527px;
+  height: 490px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-group4 {
+  top: 0px;
+  left: 0px;
+  width: 527px;
+  height: 422px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-text14 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text16 {
+  top: 29px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 220px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Clicker Script;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-group9 {
+  top: 521px;
+  left: 90px;
+  width: 1180px;
+  height: 522px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-group7 {
+  left: 7px;
+  width: 585px;
+  bottom: 16px;
+  height: 348px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-text18 {
+  top: 101px;
+  color: rgba(112, 112, 112, 1);
+  width: 585px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 400;
+  line-height: 34px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text20 {
+  top: -55px;
+  left: 0px;
+  color: var(--dl-color-default-coffee);
+  height: auto;
+  position: absolute;
+  font-size: 54px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-maskgroup {
+  top: 0px;
+  left: 680px;
+  width: 500px;
+  height: 352px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(217, 217, 217, 1);
+}
+.beanscenecoffeelandingpage-stylizedcupcoffeeoutcoffeebeansflatlay1 {
+  top: 1px;
+  left: -54px;
+  width: 680px;
+  height: 476px;
+  position: absolute;
+  border-color: transparent;
+}
+.beanscenecoffeelandingpage-container1 {
+  flex: 0 0 auto;
+  width: 1019px;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+}
+.beanscenecoffeelandingpage-group25 {
+  top: 1021px;
+  left: 172px;
+  width: 1019px;
+  height: 526px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-text22 {
+  top: 42px;
+  left: 7px;
+  color: rgba(112, 112, 112, 1);
+  width: 980px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Playfair Display;
+  font-weight: 400;
+  line-height: 34px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text24 {
+  top: -26px;
+  left: 90px;
+  color: var(--dl-color-default-coffee);
+  width: 795px;
+  height: auto;
+  position: absolute;
+  font-size: 54px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-group21 {
+  top: 149.45382690429688px;
+  left: 0px;
+  width: 1019px;
+  height: 376.5461120605469px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-group17 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 376.5461120605469px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-rectangle6 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 353px;
+  position: absolute;
+  border-color: rgba(249, 192, 106, 0.41999998688697815);
+  border-style: solid;
+  border-width: 1px;
+}
+.beanscenecoffeelandingpage-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 215px;
+  position: absolute;
+  border-color: transparent;
+}
+.beanscenecoffeelandingpage-group5 {
+  top: 329.9631652832031px;
+  left: 73px;
+  width: 134px;
+  height: 46.58302307128906px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(249, 192, 106, 1);
+}
+.beanscenecoffeelandingpage-text26 {
+  top: 13.586710929870605px;
+  left: 26px;
+  color: rgba(30, 30, 30, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-group10 {
+  top: 229.03318786621094px;
+  left: 63px;
+  width: 154px;
+  height: 83.46125793457031px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-text28 {
+  left: 16px;
+  color: var(--dl-color-default-coffee);
+  width: 122px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text30 {
+  top: 33.96677017211914px;
+  color: rgba(30, 30, 30, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text32 {
+  top: 60.16973114013672px;
+  left: 54px;
+  color: var(--dl-color-default-coffee);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-group19 {
+  top: 0px;
+  left: 363px;
+  width: 280px;
+  height: 376.5461120605469px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-rectangle10 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 353px;
+  position: absolute;
+  border-color: rgba(249, 192, 106, 0.41999998688697815);
+  border-style: solid;
+  border-width: 1px;
+}
+.beanscenecoffeelandingpage-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 215px;
+  position: absolute;
+  border-color: transparent;
+}
+.beanscenecoffeelandingpage-group13 {
+  top: 329.9631652832031px;
+  left: 73px;
+  width: 134px;
+  height: 46.58302307128906px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(249, 192, 106, 1);
+}
+.beanscenecoffeelandingpage-text34 {
+  top: 13.586710929870605px;
+  left: 26px;
+  color: rgba(30, 30, 30, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-group14 {
+  top: 229.03318786621094px;
+  left: 63px;
+  width: 154px;
+  height: 83.46125793457031px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-text36 {
+  left: 24px;
+  color: var(--dl-color-default-coffee);
+  width: 106px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text38 {
+  top: 33.96677017211914px;
+  color: rgba(30, 30, 30, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text40 {
+  top: 60.16973114013672px;
+  left: 54px;
+  color: var(--dl-color-default-coffee);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-group20 {
+  top: 0.970464825630188px;
+  left: 739px;
+  width: 280px;
+  height: 375.5756530761719px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-rectangle12 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 353px;
+  position: absolute;
+  border-color: rgba(249, 192, 106, 0.41999998688697815);
+  border-style: solid;
+  border-width: 1px;
+}
+.beanscenecoffeelandingpage-rectangle13 {
+  top: 0px;
+  left: 0px;
+  width: 280px;
+  height: 215px;
+  position: absolute;
+  border-color: transparent;
+}
+.beanscenecoffeelandingpage-group15 {
+  right: 71px;
+  width: 134px;
+  bottom: -9px;
+  height: 46.58302307128906px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(249, 192, 106, 1);
+}
+.beanscenecoffeelandingpage-text42 {
+  top: 16px;
+  left: 29px;
+  color: rgba(30, 30, 30, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-group16 {
+  top: 229.03321838378906px;
+  left: 63px;
+  width: 154px;
+  height: 83.46125793457031px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.beanscenecoffeelandingpage-text44 {
+  left: 31px;
+  color: var(--dl-color-default-coffee);
+  width: 93px;
+  height: auto;
+  position: absolute;
+  font-size: 22px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text46 {
+  top: 33.96680450439453px;
+  left: -1.1368683772161603e-13px;
+  color: rgba(30, 30, 30, 1);
+  width: 154px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-text48 {
+  top: 60.16976547241211px;
+  left: 54px;
+  color: var(--dl-color-default-coffee);
+  width: 45px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Playfair Display;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.beanscenecoffeelandingpage-group46 {
+  top: 4219px;
+  left: 0px;
+  width: 1366px;
+  height: 0px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(96, 56, 9, 1);
+}
+.beanscenecoffeelandingpage-rectangle14 {
+  top: -2705px;
+  right: 0px;
+  width: 1366px;
+  height: 310px;
+  position: absolute;
+  margin-top: 151px;
+  border-color: transparent;
+}
