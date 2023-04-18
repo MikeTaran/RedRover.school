@@ -4,7 +4,7 @@
 .container {
     max-width: 1920px;
     width: 80%;
-    margin: 0%;
+    margin: 10px 10px;
     background-color: bisque;
 }
 footer {
@@ -13,4 +13,7 @@ footer {
 .desc-text {
     width: 200px;
     margin: 5px;
+}
+div {
+    margin: 10px 20px;
 }
