@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+.container {
+    max-width: 1920px;
+    width: 80%;
+    margin: 0%;
+    background-color: bisque;
+}
+footer {
+    margin-bottom: 10px;
+}
+.desc-text {
+    width: 200px;
+    margin: 5px;
+}
