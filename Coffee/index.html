@@ -1,102 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
+    
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CoffeeShop</title>
-    <link rel="stylesheet" href="./coffee.css">
-</head>
-<body>
-<header>
-<img src="./img/header.png" alt="header">
-</header>
-<div class="container">
-    <div class="desc">
-        <div class="desc-text"> 
-            <h2>Recipe</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat at rem veniam aperiam eveniet repellat delectus officia explicabo totam, labore incidunt quos, assumenda, earum nisi obcaecati vel dolorum nesciunt soluta?</p> 
-        <img src="./img/cupcoffeebee.png" alt="">
-        </div>
-    </div>
-    <div class="menu">
-        <div class="cof1">
-            <h2>Americano</h2>
-            <h3>Arabika 100%</h3>
-            <img src="./img/americano.png" alt="">
-            <div>
-                <input type="radio" name="rb1" id="rb1-1">
-                <label for="rb1-1">L</label>
-                <input type="radio" name="rb1" id="rb1-2">
-                <label for="rb1-2">M</label>
-                <input type="radio" name="rb1" id="rb1-3" checked>
-                <label for="rb1-3">S</label>
-            </div>
-            <div>
-                <input type="radio" name="rb2" id="rb2-1" checked>
-                <label for="rb2-1">Milk</label>
-                <input type="radio" name="rb2" id="rb2-2">
-                <label for="rb2-2">Almond</label>
-                <input type="radio" name="rb2" id="rb2-3">
-                <label for="rb2-3">Coconat</label>
-            </div>
-            <button class="btn-1">Order</button>
-        </div>
-            <!--  -->
-        <div class="cof2">
-            <h2>Espresso</h2>
-            <h3>Arabika 100%</h3>
-            <img src="./img/espresso.png" alt="">
-            <div>
-                <input type="radio" name="rb3" id="rb3-1">
-                <label for="rb3-1">L</label>
-                <input type="radio" name="rb3" id="rb3-2">
-                <label for="rb3-2">M</label>
-                <input type="radio" name="rb3" id="rb3-3" checked>
-                <label for="rb3-3">S</label>
-            </div>
-            <div>
-                <h4>No milk</h4>
-                <!-- <input type="radio" name="rb4" id="rb4-1" checked>
-                <label for="rb4-1">Milk</label>
-                <input type="radio" name="rb4" id="rb4-2">
-                <label for="rb4-2">Almond</label>
-                <input type="radio" name="rb4" id="rb4-3">
-                <label for="rb4-3">Coconat</label> -->
-            </div>
-            <button class="btn-2">Order</button>
-        </div>
-            <!--  -->
-        <div class="cof3">
-            <h2>Capuccino</h2>
-            <h3>Arabika 100%</h3>
-            <img src="./img/capuccino.png" alt="">
-            <div>
-                <input type="radio" name="rb5" id="rb5-1">
-                <label for="rb5-1">L</label>
-                <input type="radio" name="rb5" id="rb5-2">
-                <label for="rb5-2">M</label>
-                <input type="radio" name="rb5" id="rb5-3" checked>
-                <label for="rb5-3">S</label>
-            </div>
-            <div>
-                <input type="radio" name="rb6" id="rb6-1" checked>
-                <label for="rb6-1">Milk</label>
-                <input type="radio" name="rb6" id="rb6-2">
-                <label for="rb6-2">Almond</label>
-                <input type="radio" name="rb6" id="rb6-3">
-                <label for="rb6-3">Coconat</label>
-            </div>
-            <button class="btn-3">Order</button>
-        </div>
-        
-    </div>
-
-
-
-</div>  
-<footer>
-    <img src="./img/fotter.png" alt="">
-</footer>
-</body>
+    <title>https://survey-form.freecodecamp.rocks</title>
+    <link rel="stylesheet" href="./style.css" />
+    <img src="" alt="">
+  </head>
+  <body>
+    <h1 id="title">freeCodeCamp Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    <form id="survey-form">
+      <fieldset>
+        <label id="name-label" for="name">Name<input placeholder="Enter your name" id="name" type="text" required /></label>
+        <label id="email-label" for="email">Email<input placeholder="Enter your Email" id="email" type="email" required /></label>
+        <label id="number-label" for="number">Age(optional)<input placeholder="10" id="number" type="number" min="10" max="99" /></label>
+        <label for="role">Which option best describes your current role?
+            <select id="role">
+            <option value="">(select current role)</option>
+            <option value="1">Student</option>
+            <option value="2">Full Time Job</option>
+            <option value="3">Full Time Learner</option>
+            <option value="4">Prefer Not To Say</option>
+            <option value="5">Other</option>
+            </select>
+        </label>
+        <label>Would you recommend freeCodeCamp to a friend?
+            <label for="define"><input id="define" type="radio" name="recom" class="inline" /> Definitely</label>
+            <label for="maybe"><input id="maybe" type="radio" name="recom" class="inline" /> Maybe</label>
+            <label for="notsure"><input id="notsure" type="radio" name="recom" class="inline" /> Not sure</label>
+        </label>
+        <!--  -->
+        <label for="favor">What is your favorite feature of freeCodeCamp?
+            <select id="favor">
+            <option value="">(select on option)</option>
+            <option value="1">Student</option>
+            <option value="2">Full Time Job</option>
+            <option value="3">Full Time Learner</option>
+            <option value="4">Prefer Not To Say</option>
+            <option value="5">Other</option>
+            </select>
+        </label>
+        <!--  -->
+        <label class="check">What would you like to see improved? (Check all that apply)
+          <input value="1" type="checkbox" class="inline" /> Front-End projects
+          <input value="2" type="checkbox" class="inline" /> Front-End projects
+          <input value="3" type="checkbox" class="inline" /> Front-End projects
+          <input value="4" type="checkbox" class="inline" /> Front-End projects
+          <input value="5" type="checkbox" class="inline" /> Front-End projects
+          <input value="6" type="checkbox" class="inline" /> Front-End projects
+          <input value="7" type="checkbox" class="inline" /> Front-End projects
+          <input value="8" type="checkbox" class="inline" /> Front-End projects
+          <input value="9" type="checkbox" class="inline" /> Front-End projects
+          <input value="10" type="checkbox" class="inline" /> Front-End projects
+          <input value="11" type="checkbox" class="inline" /> Front-End projects
+        </label>
+        <label for="bio">Any comments or suggestions?
+          <textarea id="bio" name="bio" rows="3" cols="30" placeholder="Enter your comment here..."></textarea>
+        </label>
+      </fieldset>
+       <input id="submit" type="submit" value="Submit" />
+    </form>
+  </body>
 </html>
